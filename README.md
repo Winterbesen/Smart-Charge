@@ -1,8 +1,8 @@
 # Smart Charge
 
-This project uses an ESP32 to automatically control a relay based on electricity prices and CO₂ emissions.
+This project uses an ESP32 microcontroller to automatically switch a relay on or off depending on electricity prices and CO₂ emissions.
 
-The idea is simple: only turn on the relay when electricity is both cheap and green. This means a connected device, such as a charger, can use electricity when the conditions are right.
+The goal is to use electricity when it is both affordable and environmentally friendly. For example, a charger connected to the relay will only receive power when electricity prices are low and CO₂ emissions are low.
 
 ## How it works
 
