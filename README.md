@@ -131,3 +131,6 @@ The program will automatically connect to Wi-Fi and start checking the APIs.
 ---
 
 **Note:** If you use the relay to control a mains-powered charger or other device, make sure the relay is properly rated and that all mains wiring is safely enclosed and insulated.
+
+<img width="415" height="142" alt="usingrealapidata" src="https://github.com/user-attachments/assets/d3870c8a-5b68-4759-9426-880ff8d052b9" />
+
